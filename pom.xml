@@ -14,7 +14,7 @@
         <metainf-services.version>1.8</metainf-services.version>
         <org.slf4j.version>1.7.24</org.slf4j.version>
         <logback.version>1.2.1</logback.version>
-        <ttl.version>2.10.2</ttl.version>
+        <ttl.version>2.14.3</ttl.version>
         <guava.version>19.0</guava.version>
         <fastjson.version>1.2.67.sec10</fastjson.version>
         <commons-io.version>2.5</commons-io.version>
@@ -201,7 +201,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
                 <executions>
                     <execution>
