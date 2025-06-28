@@ -18,7 +18,7 @@
 
     <properties>
         <spring.boot.version>1.4.7.RELEASE</spring.boot.version>
-        <jackson.version>2.12.3</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
     </properties>
 
     <artifactId>repeater-console</artifactId>
